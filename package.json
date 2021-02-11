@@ -1,6 +1,6 @@
 {
-  "name": "personal-web",
-  "homepage": "https://allancodes.github.io",
+  "name": "website",
+  "homepage": "https://allancodes.github.io/website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
